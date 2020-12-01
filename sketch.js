@@ -13,7 +13,7 @@ var world;
 
 //create a function preload for loading all the images
 function preload() {
-	dustbin_img = loadImage("images/dustbin.png")
+	dustbin_img = loadImage("dustbin.png")
 }
 
 //create the function setup
